@@ -100,6 +100,10 @@
     S__NOTE(_REST),  \
     E__NOTE(_E7  ),
 
+#define CALCULATOR \
+	Q__NOTE(_F6), Q__NOTE(_REST), Q__NOTE(_F6), E__NOTE(_A7), \
+	E__NOTE(_C6), E__NOTE(_F6),
+	
 #define PLOVER_SOUND \
     E__NOTE(_GS6 ),  \
     E__NOTE(_A6  ),  \
