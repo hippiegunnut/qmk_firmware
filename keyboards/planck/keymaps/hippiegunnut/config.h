@@ -12,7 +12,7 @@
                                   SONG(DVORAK_SOUND) \
                                 }
 #endif
-
+#define USB_MAX_POWER_CONSUMPTION 50
 #define MUSIC_MASK (keycode != KC_NO)
 
 /*
