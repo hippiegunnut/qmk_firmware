@@ -10,6 +10,7 @@
 #endif
 #define USB_MAX_POWER_CONSUMPTION 50
 #define MUSIC_MASK (keycode != KC_NO)
+#define USB_MAX_POWER_CONSUMPTION 50
 
 /*
  * MIDI options
